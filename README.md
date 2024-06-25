@@ -1,2 +1,1 @@
-# code-snippets
-code-snippets
+# Glue - Scripts
