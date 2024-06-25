@@ -12,7 +12,7 @@ logger = glueContext.get_logger()
 
 path = "s3://XX/zone=raw/"
 
-# Step 1: Read the data into a DynamicFrame
+# Step 1: Read the data into a DynamicFrame1
 glue_df = glueContext.create_dynamic_frame.from_options(
     connection_type="s3",
     connection_options={
